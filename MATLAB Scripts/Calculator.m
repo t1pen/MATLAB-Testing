@@ -113,6 +113,10 @@ nthroot(8,3)
 a1 = sym(sqrt(40))
 pretty(a1)
 
+%% Trigonometry
+
+
+
 
 
 
