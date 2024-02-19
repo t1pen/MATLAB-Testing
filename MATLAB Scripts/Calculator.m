@@ -31,4 +31,8 @@ l = (-2)^3
 
 m = 4^1/2
 
+n = 3^-2
+
+%% Scientific Notation
+
 
