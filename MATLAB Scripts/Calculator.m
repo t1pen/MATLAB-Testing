@@ -69,3 +69,20 @@ double(t)
 
 %% Variable Override
 
+x = 3 
+x = x + 3
+
+%% Format Long 
+
+format long
+1051/12
+pi
+
+%% Format short
+
+format short
+pi
+
+
+
+
