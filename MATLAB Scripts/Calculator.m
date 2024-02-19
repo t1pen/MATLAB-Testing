@@ -97,10 +97,10 @@ format longEng
 
 syms x y
 
-y = 3*x^2 + 2*x + 1
-pretty(y)
+z = y == 3*x^2 + 2*x + 1
+pretty(z)
 
-    
+%% Square Root 
 
 
 
