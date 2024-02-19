@@ -95,7 +95,14 @@ format longEng
 
 %% Algebra
 
-syms x
+syms x y
+
+y = 3*x^2 + 2*x + 1
+pretty(y)
+
+    
+
+
 
 
 
