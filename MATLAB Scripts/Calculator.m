@@ -110,8 +110,8 @@ nthroot(8,3)
 
 %% sys(sqrt())
 
-sym(sqrt(40))
-
+a1 = sym(sqrt(40))
+pretty(a1)
 
 
 
