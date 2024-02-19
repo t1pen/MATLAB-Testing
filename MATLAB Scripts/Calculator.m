@@ -18,19 +18,17 @@ h = 6 / 2 * (1 + 2)
 x = [0:0.1:10];
 plot(x,sin(x));
 
-t = 0:pi/500:40*pi;
-xt = (3 + cos(sqrt(32)*t)).*cos(t);
-yt = sin(sqrt(32)*t);
-zt = (3 + cos(sqrt(32)*t)).*sin(t);
-
-plot3(xt,yt,zt)
-axis equal
-xlable('x(t)')
-ylable('z(t)')
-zlable('y(t)')
 
 %% Exponent
 
 i = 5^3
+
+j = -2^2
+
+k = (-2)^2
+
+l = (-2)^3
+
+m = 4^1/2
 
 
