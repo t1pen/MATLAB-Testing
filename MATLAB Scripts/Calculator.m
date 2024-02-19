@@ -101,6 +101,16 @@ z = y == 3*x^2 + 2*x + 1
 pretty(z)
 
 %% Square Root 
+format short
+sqrt(4)
+
+%% nth Root
+
+nthroot(8,3)
+
+%% sys(sqrt())
+
+sym(sqrt(40))
 
 
 
