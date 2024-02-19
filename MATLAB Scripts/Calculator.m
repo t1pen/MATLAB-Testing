@@ -129,7 +129,7 @@ theta1 = asind(1)
 
 syms x y
 
-[x y] == solve('3*x-y=2','x+y=1')
+[x y] = solve('3*x-y=2','x+y=1')
 
 
 
