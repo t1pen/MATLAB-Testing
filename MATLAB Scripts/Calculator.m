@@ -83,6 +83,22 @@ pi
 format short
 pi
 
+%% Format ShortEng
+
+format shortEng
+8/3
+
+%% Format LongEng
+
+format longEng
+10000/3
+
+%% Algebra
+
+syms x
+
+
+
 
 
 
