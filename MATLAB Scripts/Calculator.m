@@ -49,3 +49,12 @@ pi
 
 q = 2*pi
 
+%% Fraction
+
+sym(1/4)
+
+r = sym(1/2 + 1/4)
+
+
+
+
