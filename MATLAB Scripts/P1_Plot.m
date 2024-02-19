@@ -1,2 +1,4 @@
-x = [0:0.1:10];
-plot(x,sin(x));
+a lassl .sl;d psf lal asdl ladsk, .[a;ds ka ]la ;
+ askdmk kkka; 
+ asdnkl klasklj kljas ;
+ 
