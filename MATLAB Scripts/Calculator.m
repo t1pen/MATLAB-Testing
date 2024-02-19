@@ -115,6 +115,9 @@ pretty(a1)
 
 %% Trigonometry
 
+x = sin(1.5708)
+y = sind(90)
+z = sin(pi/2)
 
 
 
