@@ -119,6 +119,18 @@ x = sin(1.5708)
 y = sind(90)
 z = sin(pi/2)
 
+%% Inverse Trigonometry
+
+theta = asin(1)
+theta1 = asind(1)
+
+
+%% Factoring
+
+syms x y
+
+[x y] = solve('3*x-y=2','x+y=1')
+
 
 
 

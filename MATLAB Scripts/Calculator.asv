@@ -83,11 +83,58 @@ pi
 format short
 pi
 
-%% Format Shorteng
+%% Format ShortEng
 
 format shortEng
 8/3
 
-%% 
+%% Format LongEng
+
+format longEng
+10000/3
+
+%% Algebra
+
+syms x y
+
+z = y == 3*x^2 + 2*x + 1
+pretty(z)
+
+%% Square Root 
+format short
+sqrt(4)
+
+%% nth Root
+
+nthroot(8,3)
+
+%% sys(sqrt())
+
+a1 = sym(sqrt(40))
+pretty(a1)
+
+%% Trigonometry
+
+x = sin(1.5708)
+y = sind(90)
+z = sin(pi/2)
+
+%% Inverse Trigonometry
+
+theta = asin(1)
+theta1 = asind(1)
+
+
+%% Factoring
+
+syms x y
+
+[x y] = solve('3*x-y=2','s')
+
+
+
+
+
+
 
 
