@@ -13,6 +13,8 @@ f = c / d
 g = (5-3)*(6/2)
 h = 6 / 2 * (1 + 2)
 
+%% Plot
+
 x = [0:0.1:10];
 plot(x,sin(x));
 
@@ -27,5 +29,8 @@ xlable('x(t)')
 ylable('z(t)')
 zlable('y(t)')
 
+%% Exponent
+
+i = 5^3
 
 
