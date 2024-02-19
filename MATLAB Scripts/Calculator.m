@@ -35,4 +35,6 @@ n = 3^-2
 
 %% Scientific Notation
 
+o = 2.5*10^3
+
 
