@@ -55,6 +55,17 @@ sym(1/4)
 
 r = sym(1/2 + 1/4)
 
+pretty(r)
 
+%% Decimal to Fraction
 
+s = 2/5 + 5
+pretty(sym(s))
+
+%% Fraction to Decimal
+
+t = sym(4.25 + 11/2)
+double(t)
+
+%% Variable Override
 
